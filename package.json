@@ -1,0 +1,16 @@
+{
+  "name": "newtestframework",
+  "version": "1.0.0",
+  "description": "my new framework",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node nightwatch -e chrome"
+  },
+  "author": "augustine madamombe",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.2.4",
+    "save": "^2.4.0"
+  }    
+}
